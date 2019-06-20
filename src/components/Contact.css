@@ -1,0 +1,30 @@
+.contact{
+    background: darkgreen;
+    color:rgb(255, 255, 249);
+    padding-bottom: 10%;
+    border: 2px solid white;
+    border-radius: 2rem;
+     
+    margin-bottom: 4%;
+ }
+ .contact h1{
+     font-size: 40px;
+     font-family: Lucida Sans;
+     font-weight: bolder;
+     margin-left: 30%
+ }
+ .contact p{
+     font-size: 20px;
+     font-family: Lucida sans;
+     margin-left: 5%;
+ }
+ .form{
+     padding: 10px 3px;
+     border-radius: 1.2rem;
+     margin-left: 5%;
+
+ }
+ .btn{
+     border-radius: 1.2rem;
+     margin-left: 7%;
+ }
