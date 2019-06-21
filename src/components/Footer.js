@@ -42,10 +42,7 @@ class Footer extends Component{
                   <a href="http://www.snapchat.com" target='_blank' rel="noopener noreferrer"><i className="fa fa-snapchat"></i></a>
                       </div>
                     </div>
-                    <div className='col-md-4'>
-                        <p>Thanks, hope to see you again!</p><p>We hope to see you in the business</p>
-                        <p>Send us an email: Just go to top and click on contacts to find our email platform. Register and lets get moving on.</p>
-                    </div>
+                    
                 </div>
                 </footer>
                
